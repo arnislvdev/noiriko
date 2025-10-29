@@ -1,4 +1,4 @@
-# create-noiriko
+# noiriko
 
 A CLI tool for scaffolding production-ready monorepo projects with interactive configuration.
 
